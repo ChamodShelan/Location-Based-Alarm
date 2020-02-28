@@ -1,0 +1,2 @@
+rootProject.name='Location-Based-Alarm'
+include ':app'
